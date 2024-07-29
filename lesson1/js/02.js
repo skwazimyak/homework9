@@ -1,0 +1,18 @@
+let chislo1 = 52;
+let chislo2 = 14;
+let result;
+result = chislo1 + chislo2;
+document.write(result + "<br />");
+alert(result);
+result = chislo1 - chislo2;
+document.write(result + "<br />");
+alert(result);
+result = chislo1 * chislo2;
+document.write(result + "<br />");
+alert(result);
+result = chislo1 / chislo2;
+document.write(result + "<br />");
+alert(result);
+result = chislo1 % chislo2;
+document.write(result + "<br />");
+alert(result);
